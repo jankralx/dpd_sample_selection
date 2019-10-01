@@ -1,5 +1,4 @@
-# Feedback Sample Selection Methods Allowing Lightweight Digital
-# Predistorter Adaptation
+# Feedback Sample Selection Methods Allowing Lightweight Digital Predistorter Adaptation
 
 The Matlab source codes are provided to supplement our research paper
 "Feedback Sample Selection Methods Allowing Lightweight Digital
