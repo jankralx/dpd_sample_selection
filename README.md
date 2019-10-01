@@ -9,9 +9,9 @@ in our paper.
 
 We have run simulations on Ubuntu OS, Matlab 2018a, but the
 simulations should be OS independent and all Matlab versions > 2018 should
-be compatible. Please note that for higher simulation executation
+be compatible. Please note that for faster simulation executation
 Distributed Computation Toolbox is required, however, all simulations
-can be done without parfor loops and hence should require no
+can be executed without parfor loops and hence should require no
 toolboxes.
 
 ## Simulation Execution
@@ -29,7 +29,7 @@ more than 24 hours (depending on the performance of HW).
 
 By default, Matlab script *RUN_ANALYSIS_04.m* loads already optimised
 histograms from *results_01_hist.mat*. You can turn on histogram
-optimisation by changing line 15 of *RUN_ANALYSIS_04.m* to
+optimisation by changing the line 15 of *RUN_ANALYSIS_04.m* to
 "pars.is_hist_training = 1;".
 
 
